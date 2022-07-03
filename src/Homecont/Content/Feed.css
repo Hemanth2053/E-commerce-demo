@@ -1,0 +1,55 @@
+.img-cont{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: white;
+    margin-top: 1vh;
+    
+}
+.img-cont-in{
+    position: relative;
+    height: 60vh;
+    width: 33%;
+    background-size: cover;
+}
+.img-cont-1{
+    height: 100%;
+    width: 100%;
+    
+}
+h1{
+    font-weight: normal;
+}
+p{
+    font-size: 15px;
+    font-weight: normal;
+    
+}
+button{
+    height: 10%;
+    width:25%;
+    font-size: 15px;
+}
+.text-cont{
+    height: 100%;
+    width: 100%;
+    position:absolute;
+    top: 20%;
+    left: 20%;
+    transform: translate(-10%,-10%);
+    color: white;
+}
+.img-cont-2{
+    height: 100%;
+    width: 100%;
+}
+.img-cont-3{
+    height: 100%;
+    width: 100%;
+    
+}
+.email-btn{
+    border-radius: 2px;
+    border: 3px;
+}
+

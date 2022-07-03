@@ -1,0 +1,33 @@
+.support{
+    height: 20vh;
+    width: 100%;
+    margin-bottom: 10vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    text-align: center;
+}
+.support-security{
+    height: 100%;
+    width: 25%;
+    text-align: center;
+}
+
+
+.support-return{
+    height: 100%;
+    width: 25%;
+    text-align: center;
+}
+.support-cust{
+    height: 100%;
+    width: 25%;
+    align-items: center;
+    text-align: center;
+}
+.support-del{
+    height: 100%;
+    width: 25%;
+    align-items: center;
+    text-align: center;
+}

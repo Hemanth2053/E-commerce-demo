@@ -1,0 +1,14 @@
+.navbar-main{
+    height: auto;
+    width: 100%;
+}
+.para-head{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    text-align: center;
+    align-self: center;
+}
+p{
+    padding-right: 10px;
+}

@@ -12,22 +12,22 @@ function SecondFeed() {
     <div className="support">
         <div className="support-security">
           <GppGood  />
-          <h4>Security</h4>
+          <h4 className="header-comp">Security</h4>
           <p>100% save online payments</p>
         </div>
         <div className="support-return">
           <Cached/>
-          <h4>30 days return period</h4>
+          <h4 className="header-comp">30 days return period</h4>
           <p>Easy return & refund</p>
         </div>
         <div className="support-cust">
           <SupportIcon/>
-          <h4>Customer Support</h4>
+          <h4 className="header-comp">Customer Support</h4>
           <p>We are here 24/7</p>
         </div>
         <div className="support-del">
           <LocalShipping disabled/>
-          <h4>Felixible Shipping</h4>
+          <h4 className="header-comp">Felixible Shipping</h4>
           <p>Maximum support</p>
         </div>
       </div>

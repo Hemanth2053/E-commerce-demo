@@ -50,14 +50,14 @@ function Sidebar() {
                       <ListItemIcon>
                           <ArrowRightOutlined />
                       </ListItemIcon>
-                        <ListItemText primary="Electronics"/>
+                        <ListItemText primary="Electronics" />
                       </ListItemButton>
                      
                       <ListItemButton sx={{ pl: 4 }}>
                       <ListItemIcon>
                           <ArrowRightOutlined />
                       </ListItemIcon>
-                        <ListItemText primary="Jewelery"  />
+                        <ListItemText primary="Jewellery"  />
                       </ListItemButton>
                       
                       <ListItemButton sx={{ pl: 4 }}>
@@ -72,7 +72,7 @@ function Sidebar() {
                       <ListItemIcon>
                           <ArrowRightOutlined />
                       </ListItemIcon>
-                        <ListItemText primary="Womens"/>
+                        <ListItemText primary="Womens" />
                       </ListItemButton>
                     </List>
                 </Collapse>

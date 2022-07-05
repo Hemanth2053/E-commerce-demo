@@ -15,7 +15,7 @@ function Feed() {
           <div className="text-cont">
             <h2>New Gedgets</h2>
             <p>With good quality</p>
-            <button>Shop  Now</button>
+            <button className="feed-btn">Shop  Now</button>
           </div>
         </div>
         <div className="img-cont-in">
@@ -25,7 +25,7 @@ function Feed() {
           <div className="text-cont">
             <h2>Dress collections</h2>
             <p>Exclusive trendy items</p>
-            <button>Shop  Now</button>
+            <button className="feed-btn">Shop  Now</button>
           </div>
         </div>
         <div className="img-cont-in">

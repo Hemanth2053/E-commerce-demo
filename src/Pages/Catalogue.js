@@ -3,11 +3,16 @@ import CatalogueFeed from '../Cataloguecont/Content/CatalogueFeed'
 import Sidebar from '../Cataloguecont/Content/Sidebar'
 import '../CssPage/Catalogue.css'
 
+
+
 function Catalogue() {
+
+  
+
   return (
     <div className="catalogue-main">
       <div className="catalogue-sidebar">
-        <Sidebar />
+        <Sidebar/>
       </div>
       <div className="catalogue-feed">
         <CatalogueFeed/>

@@ -1,0 +1,44 @@
+.detail{
+    height: 75vh;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.cont-1{
+    height: 100%;
+    width: 40%;
+    
+}
+.det-image{
+    height: auto;
+    width: 60%;
+    margin-left: 20%;
+    padding-top: 8vh;
+    
+}
+.det-title{
+    padding-bottom: 50px;
+}
+.cont-2{
+    height: 100%;
+    width: 60%;
+    
+}
+.description{
+    padding-right: 20px;
+    font-weight: bold;
+    align-self: start;
+    font-size:large;
+}
+.det-price{
+    font-size: 20px;
+    align-self: start;
+    padding-bottom: 10px;
+}
+.det-cate{
+    align-self: start;
+    padding-bottom: 20px;
+}
+.det-desc{
+    text-align: justify;
+}

@@ -24,16 +24,16 @@ function Carousel() {
   const [currImg, setCurrImg] = useState(0)
 
   const handleLeftClick = () => {
-    if(currImg < 0){
-      setCurrImg(0)
+    if(currImg <= 0){
+      setCurrImg(3)
     }else{
       setCurrImg(currImg - 1)
     }
   }
 
   const handleRightClick = () => {
-    if(currImg > 3){
-      setCurrImg(images[currImg])
+    if(currImg >= 3){
+      setCurrImg(0)
     }else{
       setCurrImg(currImg + 1)
     }
